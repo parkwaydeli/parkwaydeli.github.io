@@ -1596,7 +1596,7 @@ div.ppt { display:none !important; }
  */
 
 .inner-page .error-content{
-	max-width: 600px;
+	max-width: 1000px;
 	margin: 80px auto;
 	padding: 20px;
 	text-align: center;
@@ -1607,7 +1607,7 @@ div.ppt { display:none !important; }
 
 .inner-page .error-content h3 {
 	margin-top: 0;
-	font-size: 120px;
+	font-size: 60px;
 }
 
 .inner-page .error-content h3 span {
