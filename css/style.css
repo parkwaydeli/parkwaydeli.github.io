@@ -166,8 +166,8 @@ table { background: #fff; }
 
 .header .header-contact span{
 	display: inline-block;
-	margin-top: 13px;
-	font-size: 25px;
+	margin-top: 22px;
+	font-size: 32px;
 	font-weight: 700;
 	font-family: 'Open Sans Condensed', sans-serif;
 	color: #898989;
@@ -176,12 +176,12 @@ table { background: #fff; }
 .header .header-contact span i{
 	display: inline-block;
 	margin-right: 3px;
-	font-size: 25px;
+	font-size: 32px;
 }
 
 .header .header-location span{
   display: inline-block;
-  margin-top: 13px;
+  margin-top: 26px;
   font-size: 25px;
   font-weight: 700;
   font-family: 'Open Sans Condensed', sans-serif;
