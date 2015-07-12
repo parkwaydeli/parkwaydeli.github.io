@@ -1481,14 +1481,15 @@ div.ppt { display:none !important; }
 	margin-top: 0;
 	margin-bottom: 5px;
 	padding-bottom: 6px;
-	font-size: 20px;
+	font-size: 30px;
+	font-weight: 700;
 	color: #9a9a9a;
 	border-bottom: 4px double #eee;
 }
 
 .inner-page .contactus .contact-details i {
 	display: block;
-	margin-top: 10px;
+	margin-top: 5px;
 	width: 25px;
 	height: 25px;
 	line-height: 25px;
@@ -1503,7 +1504,7 @@ div.ppt { display:none !important; }
 	display: inline-block;
 	margin-top: 10px;
 	margin-left: 10px;
-	font-size: 13px;
+	font-size: 20px;
 	line-height: 20px;
 	color: #9a9a9a;
 }
@@ -1515,10 +1516,24 @@ div.ppt { display:none !important; }
 	border-radius: 4px;
 }
 
+.inner-page .contactus .contact-form i {
+	display: block;
+	margin-top: 5px;
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	float: left;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	border-radius: 30px;
+}
+
 .inner-page .contactus .contact-form h3{
 	margin-top: 0;
 	padding-bottom: 6px;
-	font-size: 20px;
+	font-size: 30px;
+	font-weight: 700;
 	border-bottom: 4px double #eee;
 }
 
