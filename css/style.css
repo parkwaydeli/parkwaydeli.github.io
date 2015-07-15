@@ -1206,10 +1206,19 @@ div.ppt { display:none !important; }
 	border-radius: 4px;
 }
 
-.inner-menu .menu-list h3 {
+.inner-menu .menu-list h2 {
 	margin: 0;
 	padding-bottom: 6px;
 	font-size: 30px;
+	color: #777;
+	border-bottom: 4px double #eee;
+}
+
+.inner-menu .menu-list h3 {
+	margin: 0;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	font-size: 18px;
 	color: #777;
 	border-bottom: 4px double #eee;
 }
@@ -1223,11 +1232,17 @@ div.ppt { display:none !important; }
 
 .inner-menu .menu-list .menu-list-item h4 {
 	margin: 0;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 23px;
 }
 
-.inner-menu .menu-list .menu-list-item span.price { font-size: 15px; line-height: 23px; font-weight: 700; }
+.inner-menu .menu-list .menu-list-item h5 {
+	margin: 0;
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.inner-menu .menu-list .menu-list-item span.price { font-size: 18px; line-height: 23px; font-weight: 700; }
 .inner-menu .menu-list .menu-list-item p { font-size: 13px; color: #9a9a9a; }
 
 /*
