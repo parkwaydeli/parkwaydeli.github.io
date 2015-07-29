@@ -385,12 +385,15 @@ table { background: #fff; }
 	padding-bottom: 0px;
 }
 
-.header .navbar-default .navbar-nav > li ul.dropdown-md .menu-item {	margin-bottom: 15px; }
+.header .navbar-default .navbar-nav > li ul.dropdown-md .menu-item {
+	margin-bottom: 15px;
+	text-align: center;
+}
 
 .header .navbar-default .navbar-nav > li ul.dropdown-md h2 {
 	margin: 0;
 	margin-bottom: 12px;
-	font-size: 20px;
+	font-size: 30px;
 	color: #000;
 	font-weight: 700;
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -399,7 +402,7 @@ table { background: #fff; }
 .header .navbar-default .navbar-nav > li ul.dropdown-md h3 {
 	margin: 0;
 	margin-bottom: 12px;
-	font-size: 20px;
+	font-size: 30px;
 	color: #777;
 	font-weight: 700;
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -412,9 +415,14 @@ table { background: #fff; }
 }
 
 .header .navbar-default .navbar-nav > li ul.dropdown-md p{
-	font-size: 13px;
+	font-size: 18px;
 	line-height: 21px;
 	color: #9a9a9a;
+}
+
+.header .navbar-default .navbar-nav > li ul.dropdown-md i {
+	font-size: 80px;
+	margin-bottom: 9px;
 }
 
 .header .navbar-default .navbar-nav > li ul.dropdown-md a.btn{ margin-top: 8px; }
