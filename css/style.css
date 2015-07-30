@@ -1506,7 +1506,7 @@ div.ppt { display:none !important; }
 	margin-top: 0;
 	margin-bottom: 5px;
 	padding-bottom: 6px;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 700;
 	color: #9a9a9a;
 	border-bottom: 4px double #eee;
@@ -1514,12 +1514,12 @@ div.ppt { display:none !important; }
 
 .inner-page .contactus .contact-details i {
 	display: block;
-	margin-top: 5px;
-	width: 25px;
-	height: 25px;
-	line-height: 25px;
+	margin-top: 1px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
 	float: left;
-	font-size: 12px;
+	font-size: 28px;
 	color: #fff;
 	text-align: center;
 	border-radius: 30px;
@@ -1543,12 +1543,12 @@ div.ppt { display:none !important; }
 
 .inner-page .contactus .contact-form i {
 	display: block;
-	margin-top: 5px;
-	width: 25px;
-	height: 25px;
-	line-height: 25px;
+	margin-top: 1px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
 	float: left;
-	font-size: 12px;
+	font-size: 28px;
 	color: #fff;
 	text-align: center;
 	border-radius: 30px;
@@ -1557,7 +1557,7 @@ div.ppt { display:none !important; }
 .inner-page .contactus .contact-form h3{
 	margin-top: 0;
 	padding-bottom: 6px;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 700;
 	border-bottom: 4px double #eee;
 }
