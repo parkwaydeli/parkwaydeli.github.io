@@ -268,7 +268,7 @@ table { background: #fff; }
 
 .logo img {
 	display: inline-block;
-	max-width: 50px;
+	max-width: 500px;
 }
 
 .logo h1 {
@@ -319,7 +319,7 @@ table { background: #fff; }
 .header .navbar-default .navbar-nav{ margin-top: 20px; }
 
 .header .navbar-default .navbar-nav>li>a{
-	padding-top: 0px;
+	padding-top: 20px;
 	padding-bottom: 20px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 18px;
